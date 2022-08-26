@@ -15,5 +15,5 @@ I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlpl
 <p align="center">
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,js,html,css,py,r,mongodb,mysql,c)](https://skills.thijs.gg)
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="56" height="80" />
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="36" height="66" />
 
