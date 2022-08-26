@@ -1,6 +1,6 @@
 # gabadabaduuu // Gabriela Luigi
 
-### :woman_technologist: About Me :
+### :white heart: About Me :
 I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela :venezuela: .
 
 - :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, Colombia :colombia: .
