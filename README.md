@@ -4,11 +4,11 @@ I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlpl
 
 - :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, Colombia.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Machine learning a Principals of AI.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gabriela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-luigi-b51897212)
 
 
 ## Languages and Tools:
