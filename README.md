@@ -6,7 +6,7 @@ I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring Machine learning a Principals of AI.
 
-- :zap: In my free time, I .
+- :zap: In my free time; I love to play music, Knitting, Working out and taking my coursera classes on new programming languages.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gabriela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-luigi-b51897212)
 
