@@ -14,6 +14,6 @@ I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlpl
 ## Languages and Tools:
 <p align="center">
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,js,html,css,py,r,mongodb,mysql,c, C++)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,html,css,py,r,mongodb,mysql,c,C++)](https://skills.thijs.gg)
 
 
