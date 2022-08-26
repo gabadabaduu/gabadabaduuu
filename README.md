@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me :
 I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela.
 
-- :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, Colombia co .
+- :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, Colombia :colombia .
 
 - :seedling: Exploring Machine learning a Principals of AI.
 
