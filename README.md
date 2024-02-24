@@ -1,7 +1,7 @@
 # gabadabaduuu // Gabriela Luigi
 
 ### :heart: About Me :
-I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela :venezuela: .
+I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3cG40c3RtZ2F1NzRoMWtua3dma2Uxa3NqY3YycjQxZ2xxcnh5dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IhfhXlGAfiuDx6uMRV/giphy.gif" width="30">.
 
 - :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, Colombia :colombia: .
 
