@@ -1,7 +1,7 @@
 # gabadabaduuu // Gabriela Luigi
 
 ### :heart: About Me :
-I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3cG40c3RtZ2F1NzRoMWtua3dma2Uxa3NqY3YycjQxZ2xxcnh5dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IhfhXlGAfiuDx6uMRV/giphy.gif" width="40">.
+I am a Systems Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3cG40c3RtZ2F1NzRoMWtua3dma2Uxa3NqY3YycjQxZ2xxcnh5dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IhfhXlGAfiuDx6uMRV/giphy.gif" width="40">.
 
 - :telescope: I’m a student at the Pontificia Universidad Javeriana in Bogota, <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VnbWNzZm5lYjlsZ3V2aHQ1OHhreDJrdWEyZDdsZzFxNDhpaDdzOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BubhFZoZWnGpF53KTv/giphy.gif" width="40"> .
 
@@ -9,7 +9,7 @@ I am a Systems Engineering student <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time; I love to play music, Knitting, Working out and taking my coursera classes on new programming languages and attending weekend classes at the investigative Robotics Club at my college🏫.
   
-- 🚀: Right now, I'm interested in learning about Swift, continuing my learning about mobile development and robotics along with aritificial inteligence.
+- 🚀: Right now, I'm interested in learning about Swift, continuing my learning about mobile development and aritificial inteligence.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-luigi-b51897212)
 
